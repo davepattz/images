@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 98 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-38.8316,-24.5254)">
+        <g transform="matrix(1,0,0,1.63234,0,0)">
+            <g id="Logo">
+                <g transform="matrix(0.618356,0,0,0.378816,122.91,13.5094)">
+                    <path d="M4,18L20,18L20,10L13,10L13,6L4,6L4,18ZM4,20C3.45,20 2.979,19.804 2.588,19.413C2.196,19.021 2,18.55 2,18L2,6C2,5.45 2.196,4.979 2.588,4.587C2.979,4.196 3.45,4 4,4L20,4C20.55,4 21.021,4.196 21.413,4.587C21.804,4.979 22,5.45 22,6L22,18C22,18.55 21.804,19.021 21.413,19.413C21.021,19.804 20.55,20 20,20L4,20ZM4,18L4,6L4,18Z" style="fill:rgb(111,237,124);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(3.90244,0,0,2.3907,-114.503,-42.8537)">
+                    <text x="39px" y="29.731px" style="font-family:'Montserrat-Black', 'Montserrat';font-weight:100;font-size:5.125px;fill:white;">B<tspan x="43.192px 44.832px 48.215px 50.793px 53.806px 57.107px " y="29.731px 29.731px 29.731px 29.731px 29.731px 29.731px ">loxTab</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
